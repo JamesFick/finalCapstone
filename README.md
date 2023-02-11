@@ -2,7 +2,7 @@
 The project name: Inventory, 
 
 The project faciliatates the management of the inventory on the example of shoe company. 
-Proggram allows the user to see the whole invenotry, restock the lowest quantity items or calculate the value of the inventory. 
+Program allows the user to see the whole invenotry, restock the lowest quantity items or calculate the value of the inventory. 
 On top of that user can search for individual items and identify the highest quantity from the external file. 
 The program works with external files and could be modified depending on the buisiness characterisitcs. 
 The system has adding new items function that allows to build the inventory from the scrach which is suitable for startups. 
